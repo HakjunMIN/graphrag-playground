@@ -1,0 +1,10 @@
+langchain==0.3.14
+langchain-community==0.3.14
+langchain-core==0.3.29
+langchain-openai==0.3.0
+langchain-text-splitters==0.3.5
+neo4j-driver==5.25.0
+graphrag==1.1.2
+load_dotenv
+future
+yfiles_jupyter_graphs
