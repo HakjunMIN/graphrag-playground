@@ -56,7 +56,9 @@ pip install -r requirement
 
 ## Neo4j Cypher쿼리 생성 예제
 
-[graphrag_neo4j](./graphrag_index_query.ipynb)
+[graphrag_neo4j](./graphrag_neo4j.ipynb)
+
+```python
 
 ## Reference
 
